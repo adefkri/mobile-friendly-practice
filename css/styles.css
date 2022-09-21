@@ -1,0 +1,19 @@
+*{
+        margin: 0;
+        box-sizing: border-box;
+    }
+    .body {
+        background-color: aqua;
+    }
+    footer {
+        background-color: greenyellow;
+    }
+    h1 {
+        background-color: blue;
+    }
+    .body {
+        background-color: burlywood;
+    }
+    .clearfix {
+        clear: both;
+    }
